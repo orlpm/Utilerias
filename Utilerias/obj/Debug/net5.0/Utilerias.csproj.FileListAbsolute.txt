@@ -1,0 +1,16 @@
+C:\Users\Wolf\source\repos\Utilerias\Utilerias\bin\Debug\net5.0\Utilerias.exe
+C:\Users\Wolf\source\repos\Utilerias\Utilerias\bin\Debug\net5.0\Utilerias.deps.json
+C:\Users\Wolf\source\repos\Utilerias\Utilerias\bin\Debug\net5.0\Utilerias.runtimeconfig.json
+C:\Users\Wolf\source\repos\Utilerias\Utilerias\bin\Debug\net5.0\Utilerias.runtimeconfig.dev.json
+C:\Users\Wolf\source\repos\Utilerias\Utilerias\bin\Debug\net5.0\Utilerias.dll
+C:\Users\Wolf\source\repos\Utilerias\Utilerias\bin\Debug\net5.0\ref\Utilerias.dll
+C:\Users\Wolf\source\repos\Utilerias\Utilerias\bin\Debug\net5.0\Utilerias.pdb
+C:\Users\Wolf\source\repos\Utilerias\Utilerias\obj\Debug\net5.0\Utilerias.csproj.AssemblyReference.cache
+C:\Users\Wolf\source\repos\Utilerias\Utilerias\obj\Debug\net5.0\Utilerias.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Wolf\source\repos\Utilerias\Utilerias\obj\Debug\net5.0\Utilerias.AssemblyInfoInputs.cache
+C:\Users\Wolf\source\repos\Utilerias\Utilerias\obj\Debug\net5.0\Utilerias.AssemblyInfo.cs
+C:\Users\Wolf\source\repos\Utilerias\Utilerias\obj\Debug\net5.0\Utilerias.csproj.CoreCompileInputs.cache
+C:\Users\Wolf\source\repos\Utilerias\Utilerias\obj\Debug\net5.0\Utilerias.dll
+C:\Users\Wolf\source\repos\Utilerias\Utilerias\obj\Debug\net5.0\ref\Utilerias.dll
+C:\Users\Wolf\source\repos\Utilerias\Utilerias\obj\Debug\net5.0\Utilerias.pdb
+C:\Users\Wolf\source\repos\Utilerias\Utilerias\obj\Debug\net5.0\Utilerias.genruntimeconfig.cache
